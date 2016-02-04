@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "csv-write-stream": "^1.0.0",
+    "fast-csv": "^1.0.0",
     "kerberos": "0.0.18",
     "mongodb": "^2.1.4",
     "promised-mongo": "^1.2.0",
